@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addhost" android:title="Host Match" android:icon="@android:drawable/ic_input_add"></item>
+    <item android:id="@+id/admin" android:title="Manage Adimns" android:icon="@drawable/admin"></item>
+    <item android:id="@+id/games" android:title="Manage Games" android:icon="@drawable/managegames"></item>
+    <item android:id="@+id/gamewallet" android:title="Recharge Wallet" android:icon="@drawable/wallet"></item>
+    <item android:id="@+id/withdrawel" android:title="Withdrawel Requests" android:icon="@drawable/withdraw"></item>
+    <item android:id="@+id/store" android:title="Store Orders" android:icon="@drawable/store"></item>
+    <item android:id="@+id/refer" android:title="Refer &amp; Earn" android:icon="@drawable/refer"></item>
+    <item android:id="@+id/redeem" android:title="Redeem Coins" android:icon="@drawable/redeem"></item>
+    <item android:id="@+id/story" android:title="Add Story" android:icon="@drawable/stories"></item>
+    <item android:id="@+id/addstore" android:title="Add Store Item" android:icon="@drawable/addstore"></item>
+    <item android:id="@+id/addbanner" android:title="Add Banner" android:icon="@drawable/banner"></item>
+    <item android:id="@+id/anouncement" android:title="Announcements" android:icon="@drawable/announcement"></item>
+    <item android:id="@+id/share" android:title="Share New Update" android:icon="@android:drawable/ic_menu_share"></item>
+    <item android:id="@+id/signupbonous" android:title="Set SignUp Bonus" android:icon="@drawable/bonus"></item>
+    <item android:id="@+id/myhis" android:title="My History" android:icon="@android:drawable/ic_menu_recent_history"></item>
+    <item android:id="@+id/lastmatch" android:title="Last 10 Matche" android:icon="@drawable/matches"></item>
+    <item android:id="@+id/wallet" android:title="Wallet" android:icon="@drawable/wallet"></item>
+    <item android:id="@+id/notification" android:title="Notifications" android:icon="@drawable/ic_notifications_black_24dp"></item>
+    <item android:id="@+id/profile" android:title="Profile" android:icon="@drawable/profile"></item>
+    <item android:id="@+id/stories" android:title="Stories" android:icon="@drawable/stories"></item>
+
+</menu>

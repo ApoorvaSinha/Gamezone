@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "819402379834",
+    "firebase_url": "https://gamezone-1594387708687.firebaseio.com",
+    "project_id": "gamezone-1594387708687",
+    "storage_bucket": "gamezone-1594387708687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819402379834:android:6b8e4db603d39d80711b03",
+        "android_client_info": {
+          "package_name": "com.example.gamezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819402379834-nr0aoaf8aoc9fie5v1abl8djdc8c350s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamezone",
+            "certificate_hash": "da6f5cea8b5ca747b0c9201b8ebb044ed8c29f92"
+          }
+        },
+        {
+          "client_id": "819402379834-upq2j48emoqbfgkpgknkbalvssvnntgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamezone",
+            "certificate_hash": "a656dc34ece16e1cd821ec08e712e86cf7edfe6c"
+          }
+        },
+        {
+          "client_id": "819402379834-bre2o72plk6ugms7v8h8gc8patc5o51p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2BGNZU2zuPFsmkDOy0ep7jBKy8NMrwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819402379834-bre2o72plk6ugms7v8h8gc8patc5o51p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

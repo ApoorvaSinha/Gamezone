@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gamezone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_1">IoT</string>
+    <string name="title_2">Big Data Analytics</string>
+    <string name="title_3">Blockchain</string>
+    <string name="title_4">Machine Learning</string>
+
+    <string name="text_1">Promotion</string>
+</resources>
